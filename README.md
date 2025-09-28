@@ -36,8 +36,10 @@ The audit evaluates technical and organizational controls, identifies vulnerabil
 ---
 
 ## 📂 Deliverables  
-- [📄 Risk Assessment Report (DOCX)](BotiumToys_RiskAssessment.docx)  
-- [📑 Compliance Checklist (PDF)](BotiumToys_ComplianceChecklist.pdf)  
+## 📂 Deliverables  
+- [📄 Risk Assessment Report (PDF)](RiskAssessment.pdf)  
+- [📑 Compliance Checklist (PDF)](ComplianceCheck.pdf)  
+
 
 ---
 

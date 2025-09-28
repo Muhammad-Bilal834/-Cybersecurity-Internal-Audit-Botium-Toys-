@@ -4,7 +4,8 @@
 This project is part of my **Cybersecurity Portfolio** and demonstrates my ability to conduct an **internal audit, risk assessment, and compliance review** 
 for a fictional company (*Botium Toys*).  
 
-The audit evaluates technical and organizational controls, identifies vulnerabilities, and recommends improvements aligned with industry standards such as **PCI DSS, GDPR, and SOC 2**.  
+The audit evaluates technical and organizational controls, identifies vulnerabilities, and recommends improvements aligned with industry standards such as 
+**PCI DSS, GDPR, and SOC 2**.  
 
 ---
 
@@ -39,7 +40,6 @@ The audit evaluates technical and organizational controls, identifies vulnerabil
 [Compliance check list.pdf](https://github.com/user-attachments/files/22581511/Compliance.check.list.pdf)
 
 [Risk Assessment Report.pdf](https://github.com/user-attachments/files/22581504/Risk.Assessment.Report.pdf)
-[📄 Risk Assessment Report](https://github.com/user-attachments/files/22581504/Risk.Assessment.Report.pdf)
 
 
 ---
@@ -54,4 +54,5 @@ The audit evaluates technical and organizational controls, identifies vulnerabil
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-914273314/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Bilal834)
+

@@ -37,8 +37,9 @@ The audit evaluates technical and organizational controls, identifies vulnerabil
 
 ## 📂 Deliverables  
 ## 📂 Deliverables  
-- [📄 Risk Assessment Report (PDF)](RiskAssessment.pdf)  
-- [📑 Compliance Checklist (PDF)](ComplianceCheck.pdf)  
+- [📄 Risk Assessment Report (PDF)]📄 [Risk Assessment Report](https://github.com/MuhammadBilal/risk-assessment/blob/main/Risk_Assessment_Report.pdf)
+
+- [📑 Compliance Checklist (PDF)](
 
 
 ---

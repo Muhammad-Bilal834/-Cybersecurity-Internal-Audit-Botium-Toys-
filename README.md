@@ -43,8 +43,9 @@ This project is part of my **Cybersecurity Portfolio**. It demonstrates my abili
 ---
 
 📂 ##Files in this Repo:**  
-- `Audit-Report.pdf` – Full Internal Audit Report  
-- `README.md` – Case study summary  
+📂 [Download Risk Assessment Report](./BotiumToys_RiskAssessment.docx)  
+📂 [Download Controls & Compliance Checklist](./BotiumToys_ComplianceChecklist.pdf)
+ 
 
 ---
 

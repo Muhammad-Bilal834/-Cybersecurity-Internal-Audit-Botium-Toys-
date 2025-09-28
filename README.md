@@ -39,6 +39,7 @@ The audit evaluates technical and organizational controls, identifies vulnerabil
 [Compliance check list.pdf](https://github.com/user-attachments/files/22581511/Compliance.check.list.pdf)
 
 [Risk Assessment Report.pdf](https://github.com/user-attachments/files/22581504/Risk.Assessment.Report.pdf)
+[📄 Risk Assessment Report](https://github.com/user-attachments/files/22581504/Risk.Assessment.Report.pdf)
 
 
 ---

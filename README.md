@@ -1,51 +1,54 @@
-# Cybersecurity-Internal-Audit-Botium-Toys
-
 # 🔒 Cybersecurity Internal Audit – Botium Toys  
 
-## 📌 Overview  
-This project is part of my **Cybersecurity Portfolio**. It demonstrates my ability to conduct an **Internal Audit** by identifying risks, checking compliance, and recommending controls for a fictional company (*Botium Toys*).  
+## 📌 Project Overview  
+This project is part of my **Cybersecurity Portfolio** and demonstrates my ability to conduct an **internal audit, risk assessment, and compliance review** 
+for a fictional company (*Botium Toys*).  
+
+The audit evaluates technical and organizational controls, identifies vulnerabilities, and recommends improvements aligned with industry standards such as **PCI DSS, GDPR, and SOC 2**.  
 
 ---
 
-## 🎯 Scope  
-- Access Control (Least Privilege, MFA, Separation of Duties)  
-- Data Security (Encryption, Backups, Disaster Recovery)  
-- Network Security (Firewall, IDS/IPS, Logging & Monitoring)  
-- Compliance (PCI DSS, GDPR, SOC 2)  
-- Physical Security (Locks, CCTV, Fire Systems)  
+## 🎯 Audit Scope  
+- **Access Control** → Least Privilege, MFA, Separation of Duties  
+- **Data Security** → Encryption, Backups, Disaster Recovery Planning  
+- **Network Security** → Firewalls, IDS/IPS, Monitoring & Logging  
+- **Compliance** → PCI DSS, GDPR, SOC 2 alignment  
+- **Physical Security** → Locks, CCTV, Fire Safety Controls  
 
 ---
 
 ## 📊 Key Findings  
-- ❌ No encryption for sensitive/financial data  
-- ❌ Weak password policies & no password manager  
-- ❌ No backups or disaster recovery plan  
-- ❌ No IDS in place  
-- ✅ Firewall, antivirus, and physical security implemented  
+- ❌ Lack of encryption for sensitive/financial data  
+- ❌ Weak password policies and no password manager  
+- ❌ No backups or disaster recovery plan in place  
+- ❌ Absence of intrusion detection system (IDS)  
+- ✅ Firewall, antivirus, and physical security measures already implemented  
 
 ---
 
 ## 🛠 Recommendations  
-- Implement AES-256 encryption for sensitive data  
-- Enforce Least Privilege & Separation of Duties  
-- Deploy IDS & centralized logging  
-- Create disaster recovery & backup strategies  
-- Adopt stronger password policies + password manager  
+- Implement **AES-256 encryption** for sensitive and financial data  
+- Enforce **Least Privilege** and **Separation of Duties** across user roles  
+- Deploy an **IDS/IPS** solution with centralized logging  
+- Establish a **backup and disaster recovery plan**  
+- Strengthen **password policies** and adopt a **password manager**  
+
+---
+
+## 📂 Deliverables  
+- [📄 Risk Assessment Report (DOCX)](BotiumToys_RiskAssessment.docx)  
+- [📑 Compliance Checklist (PDF)](BotiumToys_ComplianceChecklist.pdf)  
 
 ---
 
 ## 🧰 Skills Demonstrated  
-- Risk Assessment & Scoring  
+- Risk Assessment & Qualitative Scoring  
 - Compliance Mapping (PCI DSS, GDPR, SOC 2)  
-- Security Controls Evaluation  
-- Audit Reporting & Documentation  
+- Security Controls Evaluation & Documentation  
+- Audit Reporting & Professional Communication  
 
 ---
 
-📂 ##Files in this Repo:**  
-📂 [Download Risk Assessment Report](./BotiumToys_RiskAssessment.docx)  
-📂 [Download Controls & Compliance Checklist](./BotiumToys_ComplianceChecklist.pdf)
- 
-
----
-
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-914273314/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
